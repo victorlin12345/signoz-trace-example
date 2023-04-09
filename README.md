@@ -1,0 +1,1 @@
+# signoz-trace-example
